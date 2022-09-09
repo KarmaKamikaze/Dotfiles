@@ -185,7 +185,7 @@ db.custom_center = {
     action = 'Telescope colorscheme',
     shortcut = 'SPC h t'},
   }
-db.custom_footer = { '', '🎉 If I\'m using Neovim, then my VSCode config must be broken!' }
+db.custom_footer = { '', '🎉 If I\'m using Neovim, then my Emacs config must be broken!' }
 db.session_directory = "/home/karma/.config/nvim/session"
 
 -------------------------------------------------
